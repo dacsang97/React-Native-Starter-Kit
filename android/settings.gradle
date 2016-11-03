@@ -1,0 +1,3 @@
+rootProject.name = 'colorMeOptimize'
+
+include ':app'
